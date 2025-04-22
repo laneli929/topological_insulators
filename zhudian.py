@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import glob
 import os
 
+#change before using
+
 # 配置参数
 INPUT_DIR = "1-1"               # 输入文件夹路径-
 OUTPUT_DIR = "output_figures_1-1"   # 输出图片保存目录
@@ -10,6 +12,9 @@ FILE_PREFIX = "field_plot"      # 图片文件名前缀
 START_NUM = 2                   # 起始文件编号 (2.txt)
 END_NUM = 302                   # 结束文件编号 (302.txt)
 STEP = 3                        # 文件编号间隔 (2, 5, 8,..., 302)
+#change ^ before using
+
+
 
 def plot_single_file(file_path, save_path=None):
     """绘制单个文件的曲线并保存"""
