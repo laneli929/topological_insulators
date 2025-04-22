@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import glob
 import os
 
+#change before using
 # 配置参数
 #3.4Ghz对应750
 #3.18Ghz 对应700
