@@ -17,31 +17,31 @@ This MATLAB GUI application is designed for:
 
 ## Usage Instructions
 
-0. **download the folder zakphase_calculator**  
-1. **Launch the Application**  
+0. **Download the folder [zakphase_calculator](zakphase_calculator/)**  
+2. **Launch the Application**  
    Run the `apps.m` script in MATLAB.
 
-2. **Import Data**  
+3. **Import Data**  
    Click **Import Data** and select your `.txt` file.  
    The data should be organized appropriately, with useful content starting from line 6.
 
-3. **Filter Data**  
+4. **Filter Data**  
    Click **Filter Data**.  
    You will be prompted to enter an `imagThreshold` value.  
    After filtering, a new file `q1234fixed-modified.txt` will be generated.
 
-4. **Calculate Zak Phase**  
+5. **Calculate Zak Phase**  
    After filtering, click **Calculate Zak Phase**.  
    Enter the parameters `realmin` and `realThreshold` as prompted.  
    The Zak Phase will be calculated and displayed.
 
-5. **Draw Rotation Diagram**  
+6. **Draw Rotation Diagram**  
    Click **Draw Rotation Diagram** to visualize the rotation properties of your system.
 
-6. **Save Rotation Diagram**  
+7. **Save Rotation Diagram**  
    After drawing the diagram, click **Save Rotation Diagram** to export the figure in your preferred format (`.png`, `.jpg`, `.fig`).
 
-7. **Exit the Application**  
+8. **Exit the Application**  
    Click **Exit** to close the GUI.
 
 ## Notes
