@@ -22,16 +22,16 @@ This MATLAB GUI application is designed for:
    Run the `apps.m` script in MATLAB.
 
 3. **Import Data**  
-   Click **Import Data** and select your `.txt` file.  
+   Click **Import Data** and select your `.txt` file.(e.g. q1234fixed.txt)
    The data should be organized appropriately, with useful content starting from line 6.
 
 4. **Filter Data**  
    Click **Filter Data**.  
-   You will be prompted to enter an `imagThreshold` value.  
+   You will be prompted to enter an `imagThreshold` value.(0.3 recommended)  
    After filtering, a new file `q1234fixed-modified.txt` will be generated.
 
 5. **Calculate Zak Phase**  
-   After filtering, click **Calculate Zak Phase**.  
+   After filtering (e.g. realmin=0,reakThrethold=1.5), click **Calculate Zak Phase**.  
    Enter the parameters `realmin` and `realThreshold` as prompted.  
    The Zak Phase will be calculated and displayed.
 
