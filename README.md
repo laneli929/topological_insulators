@@ -17,6 +17,7 @@ This MATLAB GUI application is designed for:
 
 ## Usage Instructions
 
+0. **download the folder zakphase_calculator**  
 1. **Launch the Application**  
    Run the `apps.m` script in MATLAB.
 
