@@ -22,7 +22,7 @@ This MATLAB GUI application is designed for:
    Run the `apps.m` script in MATLAB.
 
 3. **Import Data**  
-   Click **Import Data** and select your `.txt` file.(e.g. q1234fixed.txt)
+   Click **Import Data** and select your `.txt` file (e.g. q1234fixed.txt).
    The data should be organized appropriately, with useful content starting from line 6.
 
 4. **Filter Data**  
@@ -31,8 +31,8 @@ This MATLAB GUI application is designed for:
    After filtering, a new file `q1234fixed-modified.txt` will be generated.
 
 5. **Calculate Zak Phase**  
-   After filtering (e.g. realmin=0,reakThrethold=1.5), click **Calculate Zak Phase**.  
-   Enter the parameters `realmin` and `realThreshold` as prompted.  
+   After filtering , click **Calculate Zak Phase**.  
+   Enter the parameters `realmin` and `realThreshold` as prompted.(e.g. realmin=0, realThrethold=1.5 for the first band)   
    The Zak Phase will be calculated and displayed.
 
 6. **Draw Rotation Diagram**  
