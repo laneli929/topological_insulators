@@ -13,8 +13,7 @@ This MATLAB GUI application is designed for:
 - **Calculate Zak Phase**: Compute the Zak Phase based on the filtered dataset.
 - **Draw Rotation Diagram**: Visualize rotation properties by generating a rotation diagram.
 - **Save Rotation Diagram**: Save the rotation diagram as `.png`, `.jpg`, or `.fig` files.
-- **Exit**: Close the application.
-- 
+- **Exit**: Close the application.  
 ![demo](cal1.gif)
 ## Usage Instructions
 
