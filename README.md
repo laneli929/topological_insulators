@@ -14,7 +14,7 @@ This MATLAB GUI application is designed for:
 - **Draw Rotation Diagram**: Visualize rotation properties by generating a rotation diagram.
 - **Save Rotation Diagram**: Save the rotation diagram as `.png`, `.jpg`, or `.fig` files.
 - **Exit**: Close the application.
-
+![demo](cal1.gif)
 ## Usage Instructions
 
 0. **Download the folder [zakphase_calculator](zakphase_calculator/)**  
