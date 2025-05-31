@@ -1,3 +1,4 @@
+
 # Data Processing and Zak Phase Calculator
 
 This MATLAB GUI application is designed for:
@@ -6,6 +7,7 @@ This MATLAB GUI application is designed for:
 - Calculating Zak Phase
 - Saving generated plots
 
+[View accompanying undergraduate thesis](undergraduate-thesis.pdf) 📄
 ## Features
 
 - **Import Data**: Load a `.txt` file containing your dataset.
